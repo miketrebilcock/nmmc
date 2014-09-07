@@ -1,0 +1,9 @@
+.add, .remove, .addimage, .removeimage {
+    cursor: pointer;
+}
+
+.remove, .removeimage {
+    color: #a00;
+}
+
+.page-count.boats-count a:before {content:'\f116' !important;}
